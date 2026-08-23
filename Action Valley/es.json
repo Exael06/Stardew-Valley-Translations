@@ -3,29 +3,29 @@
 	"AttackFacingMouse.Desc": "Haz que tu personaje mire hacia la dirección en la que está el cursor.",
 
 	"AV.SwordSkill.Sliver.Name": "Arte de la Espada de Plata",
-	"AV.SwordSkill.Sliver.Desc": "Por cada nivel de Combate que tengas, esta bonificación aumenta en +0,5 de Ataque.\n",
+	"AV.SwordSkill.Sliver.Desc": "Aumenta en +0,5 de Ataque por cada nivel de Combate que tengas.\n",
 
 	"AV.SwordSkill.Gold.Name": "Arte de la Espada de Oro",
-	"AV.SwordSkill.Gold.Desc": "Por cada nivel de Combate que tengas, esta bonificación obtiene +1 de Ataque adicional.\n",
+	"AV.SwordSkill.Gold.Desc": "Aumenta en +1 de Ataque por cada nivel de Combate que tengas.\n",
 
 	"AV.SwordSkill.Iridium.Name": "Arte de la Espada de Iridio",
-	"AV.SwordSkill.Iridium.Desc": "Por cada nivel de Combate que tengas, esta bonificación obtiene +1,5 de Ataque adicional.\n",
+	"AV.SwordSkill.Iridium.Desc": "Aumenta en +1,5 de Ataque por cada nivel de Combate que tengas.\n",
 
 	"AV.DaggerSkill.Sliver.Name": "Frenesí de Plata",
-	"AV.DaggerSkill.Sliver.Desc": "Por cada nivel de Combate que tengas, esta bonificación obtiene +0,05 de Velocidad adicional.\nDura hasta que finalice el Frenesí actual. La barra de Frenesí puede recargarse realizando ataques continuos.\n",
+	"AV.DaggerSkill.Sliver.Desc": "Aumenta en +0,05 de Velocidad por cada nivel de Combate que tengas.\nDura hasta que termine el Frenesí actual. La barra de Frenesí puede recargarse realizando ataques continuos.\n",
 
 	"AV.DaggerSkill.Gold.Name": "Frenesí de Oro",
-	"AV.DaggerSkill.Gold.Desc": "Por cada nivel de Combate que tengas, esta bonificación obtiene +0,1 de Velocidad adicional.\nDura hasta que finalice el Frenesí actual. La barra de Frenesí puede recargarse realizando ataques continuos.\n",
+	"AV.DaggerSkill.Gold.Desc": "Aumenta en +0,1 de Velocidad por cada nivel de Combate que tengas.\nDura hasta que termine el Frenesí actual. La barra de Frenesí puede recargarse realizando ataques continuos.\n",
 
 	"AV.DaggerSkill.Iridium.Name": "Frenesí de Iridio",
-	"AV.DaggerSkill.Iridium.Desc": "Por cada nivel de Combate que tengas, esta bonificación obtiene +0,1 de Velocidad adicional.\nDura hasta que finalice el Frenesí actual. La barra de Frenesí puede recargarse realizando ataques continuos.\n",
+	"AV.DaggerSkill.Iridium.Desc": "Aumenta en +0,1 de Velocidad por cada nivel de Combate que tengas.\nDura hasta que termine el Frenesí actual. La barra de Frenesí puede recargarse realizando ataques continuos.\n",
 
 	"AV.ClubSkill.Sliver.Name": "Carga de Plata",
-	"AV.ClubSkill.Sliver.Desc": "Por cada nivel de Combate que tengas, esta bonificación obtiene +0,5 de Defensa adicional.\nEl ataque cargado ahora inflige x2 de daño.\n",
+	"AV.ClubSkill.Sliver.Desc": "Aumenta en +0,5 de Defensa por cada nivel de Combate que tengas.\nEl ataque cargado ahora inflige x2 de daño.\n",
 
 	"AV.ClubSkill.Gold.Name": "Carga de Oro",
-	"AV.ClubSkill.Gold.Desc": "Por cada nivel de Combate que tengas, esta bonificación obtiene +0,5 de Defensa adicional.\nEl ataque cargado ahora inflige x2,5 de daño.\n",
+	"AV.ClubSkill.Gold.Desc": "Aumenta en +0,5 de Defensa por cada nivel de Combate que tengas.\nEl ataque cargado ahora inflige x2,5 de daño.\n",
 
 	"AV.ClubSkill.Iridium.Name": "Carga de Iridio",
-	"AV.ClubSkill.Iridium.Desc": "Por cada nivel de Combate que tengas, esta bonificación obtiene +0,5 de Defensa adicional.\nEl ataque cargado ahora inflige x2,7 de daño.\n"
+	"AV.ClubSkill.Iridium.Desc": "Aumenta en +0,5 de Defensa por cada nivel de Combate que tengas.\nEl ataque cargado ahora inflige x2,7 de daño.\n"
 }
