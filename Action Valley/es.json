@@ -3,7 +3,7 @@
 	"AttackFacingMouse.Desc": "Haz que tu personaje mire hacia la dirección en la que está el cursor.",
 
 	"AV.SwordSkill.Sliver.Name": "Arte de la Espada de Plata",
-	"AV.SwordSkill.Sliver.Desc": "Por cada nivel de Combate que tengas, esta bonificación obtiene +0,5 de Ataque adicional.\n",
+	"AV.SwordSkill.Sliver.Desc": "Por cada nivel de Combate que tengas, esta bonificación aumenta en +0,5 de Ataque.\n",
 
 	"AV.SwordSkill.Gold.Name": "Arte de la Espada de Oro",
 	"AV.SwordSkill.Gold.Desc": "Por cada nivel de Combate que tengas, esta bonificación obtiene +1 de Ataque adicional.\n",
